@@ -6,7 +6,8 @@ This is just an jupyter notebook to help render Kdenlive project or any video ed
 Well, you can use this to render your video inside Google Colab (or even inside headless server running jupyter server).
 ### Pros:
 1. You can render inside cloud environment
-2. You can store render result in Google Drive without uploading it from your PC to Google Drive
+2. You can store render result in Google Drive so you can directly share it without upload rendered video
+3. Rendering process will be fast
 
 ### Cons:
 1. No GPU-based rendering
