@@ -1,6 +1,6 @@
 # google-colab-kdenlive
 Render kdenlive project in google colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiracleCherryPie/google-colab-kdenlive/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiracleCherryPie/google-colab-kdenlive/blob/main/kdenlive-render.ipynb)
 ### What's this?
 This is just an jupyter notebook to help render Kdenlive project or any video editor project that uses melt to apply effects.
 ### But why?
