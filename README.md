@@ -1,5 +1,6 @@
 # google-colab-kdenlive
 Render kdenlive project in google colab
+{{ badge kdenlive-render.ipynb }}
 ### What's this?
 This is just an jupyter notebook to help render Kdenlive project or any video editor project that uses melt to apply effects.
 ### But why?
