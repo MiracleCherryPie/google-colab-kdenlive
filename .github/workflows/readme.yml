@@ -1,0 +1,9 @@
+name: Add colab badge into RAEDME.md 
+on: workflow_dispatch
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 600
+    steps:
+    - name: Add Colab badge into README.md file
+      uses: trsvchn/colab-badge-action@v4
