@@ -5,5 +5,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 600
     steps:
+    - name: Checkout first
+      uses: actions/checkout@v2
     - name: Add Colab badge into README.md file
       uses: trsvchn/colab-badge-action@v4
+      with:
+          check: "all"
+          target_branch: main
+          target_repository: MiracleCherryPie/google-colab-kdenlive
+          update: true
